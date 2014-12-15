@@ -1,0 +1,7 @@
+This piece of software is published without an accompanying license, as License-Free Software, in which case it remains copyrighted, its distribution is subject to ordinary copyright law, and its sale is subject to ordinary sales law.
+
+For more information about software licenses, see:
+http://en.wikipedia.org/wiki/List_of_software_licenses
+
+For general Python license, see:
+https://docs.python.org/2/license.html
