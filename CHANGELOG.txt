@@ -1,0 +1,4 @@
+###A CHANGELOG file or section in README should compile a short overview of the changes in the code base for the latest versions
+
+2014_12_14:
+- input type conversion changed from int conversion to float conversion
