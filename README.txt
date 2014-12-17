@@ -11,4 +11,5 @@ No specific installation is required
 ###A TODO file or a TODO section in README should list the planned development for the code.
 
 TODO:
+Reimplement Calculator as class
 Add check of valid user input.
